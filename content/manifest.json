@@ -1,1 +1,60 @@
-{"items":[{"caption":"DRAFT caption - will be replaced with real content","file":"content/images/img-001.jpg","ready":false,"type":"image"},{"caption":"DRAFT caption - will be replaced with real content","ready":false,"type":"text"},{"caption":"DRAFT caption - will be replaced with real content","file":"content/videos/vid-001.mp4","ready":false,"type":"video"},{"caption":"DRAFT caption - will be replaced with real content","file":"content/images/img-002.jpg","ready":false,"type":"image"},{"caption":"DRAFT caption - will be replaced with real content","ready":false,"type":"text"},{"caption":"DRAFT caption - will be replaced with real content","file":"content/videos/vid-002.mp4","ready":false,"type":"video"},{"caption":"DRAFT caption - will be replaced with real content","file":"content/images/img-003.jpg","ready":false,"type":"image"},{"caption":"DRAFT caption - will be replaced with real content","ready":false,"type":"text"},{"caption":"DRAFT caption - will be replaced with real content","file":"content/videos/vid-003.mp4","ready":false,"type":"video"},{"caption":"DRAFT caption - will be replaced with real content","file":"content/images/img-004.jpg","ready":false,"type":"image"}]}
+{
+  "items": [
+    {
+      "type": "text",
+      "caption": "\ud83d\udcaa Fitness Tip: Start your day with 10 push-ups! Small habits build big results. Consistency beats intensity. #GetFit #FitnessMotivation #HealthyLifestyle",
+      "ready": true
+    },
+    {
+      "caption": "DRAFT caption - will be replaced with real content",
+      "ready": false,
+      "type": "text"
+    },
+    {
+      "caption": "DRAFT caption - will be replaced with real content",
+      "file": "content/videos/vid-001.mp4",
+      "ready": false,
+      "type": "video"
+    },
+    {
+      "caption": "DRAFT caption - will be replaced with real content",
+      "file": "content/images/img-002.jpg",
+      "ready": false,
+      "type": "image"
+    },
+    {
+      "caption": "DRAFT caption - will be replaced with real content",
+      "ready": false,
+      "type": "text"
+    },
+    {
+      "caption": "DRAFT caption - will be replaced with real content",
+      "file": "content/videos/vid-002.mp4",
+      "ready": false,
+      "type": "video"
+    },
+    {
+      "caption": "DRAFT caption - will be replaced with real content",
+      "file": "content/images/img-003.jpg",
+      "ready": false,
+      "type": "image"
+    },
+    {
+      "caption": "DRAFT caption - will be replaced with real content",
+      "ready": false,
+      "type": "text"
+    },
+    {
+      "caption": "DRAFT caption - will be replaced with real content",
+      "file": "content/videos/vid-003.mp4",
+      "ready": false,
+      "type": "video"
+    },
+    {
+      "caption": "DRAFT caption - will be replaced with real content",
+      "file": "content/images/img-004.jpg",
+      "ready": false,
+      "type": "image"
+    }
+  ]
+}
