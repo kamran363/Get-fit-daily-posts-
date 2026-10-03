@@ -1,0 +1,38 @@
+name: Get Fit daily posts
+
+on:
+  schedule:
+    # Times in UTC (PKT = UTC+5). 10 posts/day: 07:00-22:45 PKT.
+    - cron: '0 2 * * *'    # 07:00 PKT - image
+    - cron: '45 3 * * *'   # 08:45 PKT - text
+    - cron: '30 5 * * *'   # 10:30 PKT - video
+    - cron: '15 7 * * *'   # 12:15 PKT - image
+    - cron: '0 9 * * *'    # 14:00 PKT - text
+    - cron: '45 10 * * *'  # 15:45 PKT - video
+    - cron: '30 12 * * *'  # 17:30 PKT - image
+    - cron: '15 14 * * *'  # 19:15 PKT - text
+    - cron: '0 16 * * *'   # 21:00 PKT - video
+    - cron: '45 17 * * *'  # 22:45 PKT - image
+  workflow_dispatch:  # manual test runs from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Post next item in queue
+        env:
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          PAGE_ID: '1306282999230530'  # Get Fit page
+        run: python3 scripts/post.py
+
+      - name: Save queue position
+        run: | git config user.name "get-fit-bot" git config user.email "get-fit-bot@users.noreply.github.com" git add content/state.json git diff --cached --quiet || git commit -m "[skip ci] advance post queue" git push
