@@ -1,1 +1,61 @@
-{"items":[{"caption":"💪 Be stronger than your excuses. #GetFit #FitnessMotivation #NoExcuses #AnimeFitness","file":"content/images/2026-10-07-1.jpg","ready":true,"type":"image"},{"caption":"Slow down and feel every rep. The mind-muscle connection beats heavy ego lifting — controlled reps build more muscle than sloppy ones. Quality over weight, always. 🧠💪 #GetFit #FitnessTips #MindMuscle #Workout #GymLife","ready":true,"type":"text"},{"caption":"🥩 Protein = muscle fuel! How much you really need 👇 #GetFit #Protein #MuscleGrowth #Nutrition","file":"content/videos/2026-10-07-protein-for-muscle.mp4","ready":true,"type":"video"},{"caption":"⚡ Quick tip: keep workouts under 60 minutes — intensity beats duration. #GetFit #FitnessTips #Workout","file":"content/images/2026-10-07-2.jpg","ready":true,"type":"image"},{"caption":"Rest days are growth days. Training breaks muscle down; recovery builds it back stronger. Take 1–2 full rest days a week and watch your lifts go up. 🛌 #GetFit #Recovery #RestDay #Fitness #MuscleGrowth","ready":true,"type":"text"},{"caption":"🔥 Never skip your warm-up! 5-minute routine inside 👇 #GetFit #WarmUp #FitnessTips #Workout","file":"content/videos/2026-10-07-warmup-routine.mp4","ready":true,"type":"video"},{"caption":"🏋️ Exercise of the day: Pull-Ups — 4 sets x 10 reps. #GetFit #PullUps #BackDay #Fitness","file":"content/images/2026-10-07-3.jpg","ready":true,"type":"image"},{"caption":"You don't need a perfect workout, just a consistent one. 30 focused minutes beats a skipped 2-hour plan. Show up, do the work, repeat. 🔁 #GetFit #Consistency #NoExcuses #FitnessMotivation #Workout","ready":true,"type":"text"},{"caption":"🏋️ Deadlift form FIXED — lift heavy, stay safe 👇 #GetFit #Deadlift #FormCheck #Strength","file":"content/videos/2026-10-07-deadlift-form-basics.mp4","ready":true,"type":"video"},{"caption":"🥤 Diet tip: swap sugary drinks for water — cut 300+ empty calories a day. #GetFit #Nutrition #Fitness","file":"content/images/2026-10-07-4.jpg","ready":true,"type":"image"}]}
+{
+ "items": [
+  {
+   "type": "image",
+   "file": "content/images/2026-10-08-1.jpg",
+   "ready": true,
+   "caption": "🔥 Discipline beats motivation. Show up anyway. #GetFit #FitnessMotivation #Discipline #NoExcuses"
+  },
+  {
+   "type": "text",
+   "ready": true,
+   "caption": "Your body is built in the kitchen as much as the gym. Aim for protein in every meal, colourful vegetables, and water before coffee. Small food swaps beat crash diets every time. 🥗 #GetFit #Nutrition #HealthyEating #FitnessTips"
+  },
+  {
+   "type": "video",
+   "file": "content/videos/2026-10-08-rest-day-recovery.mp4",
+   "ready": true,
+   "caption": "😴 Rest days are GROWTH days — recover the right way 👇 #GetFit #Recovery #RestDay #MuscleGrowth"
+  },
+  {
+   "type": "image",
+   "file": "content/images/2026-10-08-2.jpg",
+   "ready": true,
+   "caption": "⚡ Quick tip: train each muscle 2x per week for faster growth. #GetFit #FitnessTips #MuscleBuilding #Workout"
+  },
+  {
+   "type": "text",
+   "ready": true,
+   "caption": "Track your workouts — even a simple notebook works. When you see your lifts going up week after week, motivation takes care of itself. 📓💪 #GetFit #Progress #GymLife #Workout"
+  },
+  {
+   "type": "video",
+   "file": "content/videos/2026-10-08-hiit-for-beginners.mp4",
+   "ready": true,
+   "caption": "🔥 Burn fat in 15 minutes — HIIT for beginners 👇 #GetFit #HIIT #FatLoss #Cardio"
+  },
+  {
+   "type": "image",
+   "file": "content/images/2026-10-08-3.jpg",
+   "ready": true,
+   "caption": "🏋️ Exercise of the day: Squats — 4 sets x 12 reps. #GetFit #Squat #LegDay #ExerciseOfTheDay"
+  },
+  {
+   "type": "text",
+   "ready": true,
+   "caption": "Film one set of your workout today. You can't fix what you can't see — checking your form on video catches rounded backs and shallow squats instantly. 📱 #GetFit #FormCheck #WorkoutTips #GymTips"
+  },
+  {
+   "type": "video",
+   "file": "content/videos/2026-10-08-mobility-for-squats.mp4",
+   "ready": true,
+   "caption": "🦵 Knees caving in? Fix your squat mobility 👇 #GetFit #Squat #Mobility #LegDay"
+  },
+  {
+   "type": "image",
+   "file": "content/images/2026-10-08-4.jpg",
+   "ready": true,
+   "caption": "💧 Drink 3 litres of water daily — hydration is free performance. #GetFit #Hydration #HealthTips #Fitness"
+  }
+ ]
+}
