@@ -1,61 +1,61 @@
 {
- "items": [
-  {
-   "type": "image",
-   "file": "content/images/2026-10-08-1.jpg",
-   "ready": true,
-   "caption": "🔥 Discipline beats motivation. Show up anyway. #GetFit #FitnessMotivation #Discipline #NoExcuses"
-  },
-  {
-   "type": "text",
-   "ready": true,
-   "caption": "Your body is built in the kitchen as much as the gym. Aim for protein in every meal, colourful vegetables, and water before coffee. Small food swaps beat crash diets every time. 🥗 #GetFit #Nutrition #HealthyEating #FitnessTips"
-  },
-  {
-   "type": "video",
-   "file": "content/videos/2026-10-08-rest-day-recovery.mp4",
-   "ready": true,
-   "caption": "😴 Rest days are GROWTH days — recover the right way 👇 #GetFit #Recovery #RestDay #MuscleGrowth"
-  },
-  {
-   "type": "image",
-   "file": "content/images/2026-10-08-2.jpg",
-   "ready": true,
-   "caption": "⚡ Quick tip: train each muscle 2x per week for faster growth. #GetFit #FitnessTips #MuscleBuilding #Workout"
-  },
-  {
-   "type": "text",
-   "ready": true,
-   "caption": "Track your workouts — even a simple notebook works. When you see your lifts going up week after week, motivation takes care of itself. 📓💪 #GetFit #Progress #GymLife #Workout"
-  },
-  {
-   "type": "video",
-   "file": "content/videos/2026-10-08-hiit-for-beginners.mp4",
-   "ready": true,
-   "caption": "🔥 Burn fat in 15 minutes — HIIT for beginners 👇 #GetFit #HIIT #FatLoss #Cardio"
-  },
-  {
-   "type": "image",
-   "file": "content/images/2026-10-08-3.jpg",
-   "ready": true,
-   "caption": "🏋️ Exercise of the day: Squats — 4 sets x 12 reps. #GetFit #Squat #LegDay #ExerciseOfTheDay"
-  },
-  {
-   "type": "text",
-   "ready": true,
-   "caption": "Film one set of your workout today. You can't fix what you can't see — checking your form on video catches rounded backs and shallow squats instantly. 📱 #GetFit #FormCheck #WorkoutTips #GymTips"
-  },
-  {
-   "type": "video",
-   "file": "content/videos/2026-10-08-mobility-for-squats.mp4",
-   "ready": true,
-   "caption": "🦵 Knees caving in? Fix your squat mobility 👇 #GetFit #Squat #Mobility #LegDay"
-  },
-  {
-   "type": "image",
-   "file": "content/images/2026-10-08-4.jpg",
-   "ready": true,
-   "caption": "💧 Drink 3 litres of water daily — hydration is free performance. #GetFit #Hydration #HealthTips #Fitness"
-  }
- ]
+  "items": [
+    {
+      "type": "image",
+      "file": "content/images/2026-10-09-1.jpg",
+      "ready": true,
+      "caption": "💪 Your only limit is you. Show up today. #GetFit #FitnessMotivation #NoExcuses #Mindset"
+    },
+    {
+      "type": "text",
+      "ready": true,
+      "caption": "Muscles grow while you sleep, not while you train. Aim for 7 to 8 hours a night — skimp on sleep and you skimp on your gains. Recovery is training too. 😴 #GetFit #Sleep #Recovery #MuscleGrowth"
+    },
+    {
+      "type": "video",
+      "file": "content/videos/2026-10-09-cooldown-stretching.mp4",
+      "ready": true,
+      "caption": "🧘 Stop skipping your cooldown — stretch the smart way 👇 #GetFit #Cooldown #Stretching #Recovery"
+    },
+    {
+      "type": "image",
+      "file": "content/images/2026-10-09-2.jpg",
+      "ready": true,
+      "caption": "⚡ Quick tip: train your core 3x per week. #GetFit #FitnessTips #Core #Abs"
+    },
+    {
+      "type": "text",
+      "ready": true,
+      "caption": "Add a little more every week — one more rep, one more kilo. Small increases stack up into big transformations over time. Progress beats perfection. 📈 #GetFit #Progress #GymLife #Strength"
+    },
+    {
+      "type": "video",
+      "file": "content/videos/2026-10-09-calves-workout.mp4",
+      "ready": true,
+      "caption": "🦵 Weak calves? Build them with this routine 👇 #GetFit #Calves #LegDay #MuscleBuilding"
+    },
+    {
+      "type": "image",
+      "file": "content/images/2026-10-09-3.jpg",
+      "ready": true,
+      "caption": "🏋️ Exercise of the day: Lunges — 3 sets x 12 reps. #GetFit #Lunges #LegDay #ExerciseOfTheDay"
+    },
+    {
+      "type": "text",
+      "ready": true,
+      "caption": "Dehydrated by just 2% and your strength drops noticeably. Keep a bottle with you and sip all day, not only during workouts. Water is free performance. 💧 #GetFit #Hydration #FitnessTips #Health"
+    },
+    {
+      "type": "video",
+      "file": "content/videos/2026-10-09-jump-rope-cardio.mp4",
+      "ready": true,
+      "caption": "🔥 Torch calories with jump rope cardio 👇 #GetFit #JumpRope #Cardio #FatLoss"
+    },
+    {
+      "type": "image",
+      "file": "content/images/2026-10-09-4.jpg",
+      "ready": true,
+      "caption": "🍗 Eat protein with every meal — feed the muscle. #GetFit #Nutrition #Protein #HealthyEating"
+    }
+  ]
 }
