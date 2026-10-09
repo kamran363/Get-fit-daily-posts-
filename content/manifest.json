@@ -2,60 +2,60 @@
   "items": [
     {
       "type": "image",
-      "file": "content/images/2026-10-09-1.jpg",
+      "file": "content/images/2026-10-10-1.jpg",
       "ready": true,
-      "caption": "💪 Your only limit is you. Show up today. #GetFit #FitnessMotivation #NoExcuses #Mindset"
+      "caption": "🔥 Show up even when you don't feel like it. That's where results live. #GetFit #Motivation #NoExcuses #Mindset"
     },
     {
       "type": "text",
       "ready": true,
-      "caption": "Muscles grow while you sleep, not while you train. Aim for 7 to 8 hours a night — skimp on sleep and you skimp on your gains. Recovery is training too. 😴 #GetFit #Sleep #Recovery #MuscleGrowth"
+      "caption": "Squeeze every rep like it matters — because it does. The mind-muscle connection turns a sloppy set into real growth: slow down, feel the muscle working, and own every contraction. 💪 #GetFit #MindMuscleConnection #FormTips #MuscleBuilding"
     },
     {
       "type": "video",
-      "file": "content/videos/2026-10-09-cooldown-stretching.mp4",
+      "file": "content/videos/2026-10-10-pull-up-progression.mp4",
       "ready": true,
-      "caption": "🧘 Stop skipping your cooldown — stretch the smart way 👇 #GetFit #Cooldown #Stretching #Recovery"
+      "caption": "💪 Can't do a pull-up yet? Follow this progression 👇 #GetFit #PullUps #BackDay #MuscleBuilding"
     },
     {
       "type": "image",
-      "file": "content/images/2026-10-09-2.jpg",
+      "file": "content/images/2026-10-10-2.jpg",
       "ready": true,
-      "caption": "⚡ Quick tip: train your core 3x per week. #GetFit #FitnessTips #Core #Abs"
+      "caption": "⚡ Quick tip: rest 60-90 seconds between sets. #GetFit #FitnessTips #GymTips #Strength"
     },
     {
       "type": "text",
       "ready": true,
-      "caption": "Add a little more every week — one more rep, one more kilo. Small increases stack up into big transformations over time. Progress beats perfection. 📈 #GetFit #Progress #GymLife #Strength"
+      "caption": "The gym is one hour. The other 23 count too. Walk more, take the stairs, park further away — daily movement burns real calories and keeps you lean without extra workouts. 🚶 #GetFit #NEAT #DailySteps #FatLoss"
     },
     {
       "type": "video",
-      "file": "content/videos/2026-10-09-calves-workout.mp4",
+      "file": "content/videos/2026-10-10-hamstring-curls.mp4",
       "ready": true,
-      "caption": "🦵 Weak calves? Build them with this routine 👇 #GetFit #Calves #LegDay #MuscleBuilding"
+      "caption": "🦵 Build stronger hamstrings with curls done right 👇 #GetFit #Hamstrings #LegDay #FormCheck"
     },
     {
       "type": "image",
-      "file": "content/images/2026-10-09-3.jpg",
+      "file": "content/images/2026-10-10-3.jpg",
       "ready": true,
-      "caption": "🏋️ Exercise of the day: Lunges — 3 sets x 12 reps. #GetFit #Lunges #LegDay #ExerciseOfTheDay"
+      "caption": "🏋️ Exercise of the day: Burpees — 3 sets x 10 reps. #GetFit #Burpees #ExerciseOfTheDay #FullBody"
     },
     {
       "type": "text",
       "ready": true,
-      "caption": "Dehydrated by just 2% and your strength drops noticeably. Keep a bottle with you and sip all day, not only during workouts. Water is free performance. 💧 #GetFit #Hydration #FitnessTips #Health"
+      "caption": "Breathing wrong kills your big lifts. Inhale before the rep, brace your core like you are about to be punched, exhale on the way up. More power, a safer spine. 🫁 #GetFit #Breathing #Powerlifting #FormTips"
     },
     {
       "type": "video",
-      "file": "content/videos/2026-10-09-jump-rope-cardio.mp4",
+      "file": "content/videos/2026-10-10-dead-hangs.mp4",
       "ready": true,
-      "caption": "🔥 Torch calories with jump rope cardio 👇 #GetFit #JumpRope #Cardio #FatLoss"
+      "caption": "🙌 Dead hangs: the simplest grip-and-posture fix you're skipping 👇 #GetFit #DeadHang #GripStrength #Posture"
     },
     {
       "type": "image",
-      "file": "content/images/2026-10-09-4.jpg",
+      "file": "content/images/2026-10-10-4.jpg",
       "ready": true,
-      "caption": "🍗 Eat protein with every meal — feed the muscle. #GetFit #Nutrition #Protein #HealthyEating"
+      "caption": "💧 Drink water before every meal — easy hydration win. #GetFit #Hydration #HealthyHabits #Nutrition"
     }
   ]
 }
