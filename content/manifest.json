@@ -2,60 +2,60 @@
   "items": [
     {
       "type": "image",
-      "file": "content/images/2026-10-10-1.jpg",
+      "file": "content/images/2026-10-11-1.jpg",
       "ready": true,
-      "caption": "🔥 Show up even when you don't feel like it. That's where results live. #GetFit #Motivation #NoExcuses #Mindset"
+      "caption": "💪 Discipline beats motivation — show up and do the work. #GetFit #Discipline #Motivation #Mindset"
     },
     {
       "type": "text",
       "ready": true,
-      "caption": "Squeeze every rep like it matters — because it does. The mind-muscle connection turns a sloppy set into real growth: slow down, feel the muscle working, and own every contraction. 💪 #GetFit #MindMuscleConnection #FormTips #MuscleBuilding"
+      "caption": "Stop guessing your workouts. Add one more rep, one more kilo, or one more set each week — that's progressive overload, and it's the engine of every transformation. Small jumps, tracked in your phone notes, beat random heroic sessions every time. #GetFit #ProgressiveOverload #MuscleBuilding #TrainingTips"
     },
     {
       "type": "video",
-      "file": "content/videos/2026-10-10-pull-up-progression.mp4",
+      "file": "content/videos/2026-10-11-incline-walking-cardio.mp4",
       "ready": true,
-      "caption": "💪 Can't do a pull-up yet? Follow this progression 👇 #GetFit #PullUps #BackDay #MuscleBuilding"
+      "caption": "🚶 Incline walking: the fat-burn secret you're sleeping on 👇 #GetFit #Cardio #FatLoss #InclineWalking"
     },
     {
       "type": "image",
-      "file": "content/images/2026-10-10-2.jpg",
+      "file": "content/images/2026-10-11-2.jpg",
       "ready": true,
-      "caption": "⚡ Quick tip: rest 60-90 seconds between sets. #GetFit #FitnessTips #GymTips #Strength"
+      "caption": "⚡ Quick tip: warm up 5 minutes before every workout. #GetFit #WarmUp #FitnessTips #InjuryPrevention"
     },
     {
       "type": "text",
       "ready": true,
-      "caption": "The gym is one hour. The other 23 count too. Walk more, take the stairs, park further away — daily movement burns real calories and keeps you lean without extra workouts. 🚶 #GetFit #NEAT #DailySteps #FatLoss"
+      "caption": "Sitting all day? Your posture is paying for it. Stand up every hour, roll your shoulders back, and squeeze in a 60-second stretch. Eight micro-breaks a day undo more damage than one long Sunday stretch ever will. #GetFit #Posture #DeskWorkout #HealthyHabits"
     },
     {
       "type": "video",
-      "file": "content/videos/2026-10-10-hamstring-curls.mp4",
+      "file": "content/videos/2026-10-11-lateral-raises.mp4",
       "ready": true,
-      "caption": "🦵 Build stronger hamstrings with curls done right 👇 #GetFit #Hamstrings #LegDay #FormCheck"
+      "caption": "🔥 Boulder shoulders start with perfect lateral raises 👇 #GetFit #Shoulders #LateralRaises #MuscleBuilding"
     },
     {
       "type": "image",
-      "file": "content/images/2026-10-10-3.jpg",
+      "file": "content/images/2026-10-11-3.jpg",
       "ready": true,
-      "caption": "🏋️ Exercise of the day: Burpees — 3 sets x 10 reps. #GetFit #Burpees #ExerciseOfTheDay #FullBody"
+      "caption": "🏋️ Exercise of the day: Mountain climbers — 4 rounds x 30 seconds. #GetFit #ExerciseOfTheDay #MountainClimbers #Core"
     },
     {
       "type": "text",
       "ready": true,
-      "caption": "Breathing wrong kills your big lifts. Inhale before the rep, brace your core like you are about to be punched, exhale on the way up. More power, a safer spine. 🫁 #GetFit #Breathing #Powerlifting #FormTips"
+      "caption": "Most people train dehydrated and never know it. Keep a bottle with you and finish at least 2–3 litres a day — your energy, skin, and lifts will all feel the difference. Thirst means you're already late. 💧 #GetFit #Hydration #HealthyHabits #FitnessTips"
     },
     {
       "type": "video",
-      "file": "content/videos/2026-10-10-dead-hangs.mp4",
+      "file": "content/videos/2026-10-11-core-rotation-twists.mp4",
       "ready": true,
-      "caption": "🙌 Dead hangs: the simplest grip-and-posture fix you're skipping 👇 #GetFit #DeadHang #GripStrength #Posture"
+      "caption": "🌀 Crunches aren't enough — rotate your way to real abs 👇 #GetFit #CoreWorkout #Abs #RussianTwists"
     },
     {
       "type": "image",
-      "file": "content/images/2026-10-10-4.jpg",
+      "file": "content/images/2026-10-11-4.jpg",
       "ready": true,
-      "caption": "💧 Drink water before every meal — easy hydration win. #GetFit #Hydration #HealthyHabits #Nutrition"
+      "caption": "🍗 Eat protein with every meal — your muscles will thank you. #GetFit #Protein #Nutrition #MuscleGrowth"
     }
   ]
 }
